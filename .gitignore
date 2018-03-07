@@ -1,14 +1,9 @@
-*.gem
-*.sublime-project
-*.sublime-workspace
-.bundle
-.DS_Store
+### Jekyll template
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
-.sass-cache
-_asset_bundler_cache
-_site
-codekit-config.json
-example/_site
-Gemfile.lock
-node_modules
-npm-debug.log*
+
+.idea/
+/_site/feed.xml
+/_site/sitemap.xml
