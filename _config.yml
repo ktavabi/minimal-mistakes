@@ -93,7 +93,7 @@ analytics:
 author:
   name             : "Kambiz Tavabi"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Research Scientist. Amateur photographer."
+  bio              : "Neuroscientist. Amateur photographer."
   location         : "Seattle Washington"
   email            : "ktavabi(at)gmail(dot)com"
   uri              :
@@ -101,22 +101,22 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : cambysese
-  facebook         : ktavabi
+  flickr           : "cambysese"
+  facebook         : "ktavabi"
   foursquare       :
-  github           : ktavabi
+  github           : "ktavabi"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : cambysese
+  instagram        : "cambysese"
   lastfm           :
   linkedin         : ktavabi # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
-  soundcloud       : cambysese
+  soundcloud       : "cambysese"
   stackoverflow    : "1634460/ktavabi"
-  steam            : kambysese # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  steam            : "kambysese" # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : cambysese
+  twitter          : "cambysese"
   vine             :
   weibo            :
   xing             :
