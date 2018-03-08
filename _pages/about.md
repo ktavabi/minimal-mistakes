@@ -2,6 +2,8 @@
 layout: single
 title: About
 permalink: /about/
+author_profile: true
+share: false
 ---
 
 I am a Research Scientist at the Institute for Learning & Brain Sciences

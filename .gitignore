@@ -7,3 +7,5 @@ _site/
 .idea/
 /_site/feed.xml
 /_site/sitemap.xml
+
+Gemfile\.lock
