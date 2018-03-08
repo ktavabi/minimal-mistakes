@@ -2,7 +2,7 @@
 layout: single
 title: About
 permalink: /about/
-author_profile: True
+author_profile: true
 share: false
 ---
 
