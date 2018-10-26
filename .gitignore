@@ -4,6 +4,17 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+.editorconfig
+.gitattributes
+.github
+/docs
+/test
+CHANGELOG.md
+minimal-mistakes-jekyll.gemspec
+README.md
+screenshot-layouts.png
+screenshot.png
+
 .idea/
 /_site/feed.xml
 /_site/sitemap.xml
