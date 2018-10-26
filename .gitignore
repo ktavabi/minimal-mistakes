@@ -9,3 +9,5 @@ _site/
 /_site/sitemap.xml
 
 Gemfile\.lock
+
+test/

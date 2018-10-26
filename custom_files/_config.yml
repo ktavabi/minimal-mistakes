@@ -32,6 +32,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
+<<<<<<< HEAD:custom_files/_config.yml
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
   commitMessage          : # "New comment."
@@ -40,16 +41,31 @@ staticman:
   moderation             : # true
   path                   : # "/_data/comments/{options.slug}" (default)
   requiredFields         : # ['name', 'email', 'message']
+=======
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : # "master", "gh-pages"
+  commitMessage          : "New comment by {fields.name}"
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
+>>>>>>> master:test/_config.yml
   transforms:
     email                : # "md5"
   generatedFields:
     date:
       type               : # "date"
       options:
+<<<<<<< HEAD:custom_files/_config.yml
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
   siteKey                :
   secret                 :
+=======
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
+>>>>>>> master:test/_config.yml
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
@@ -93,6 +109,7 @@ analytics:
 author:
   name             : "Kambiz Tavabi"
   avatar           : "/assets/images/bio-photo.jpg"
+<<<<<<< HEAD:custom_files/_config.yml
   bio              : "Research Scientist. Amateur photographer."
   location         : "Seattle Washington"
   email            : "ktavabi(at)gmail(dot)com"
@@ -121,6 +138,37 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+=======
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
+  links:
+    - label: "Your Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://your-site.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+>>>>>>> master:test/_config.yml
 
 
 # Reading Files
@@ -202,6 +250,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -210,6 +259,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 
 # Archives
