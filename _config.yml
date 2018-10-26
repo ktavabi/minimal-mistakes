@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : cambysese
+  username               : kambiztavabi
 facebook:
   username               :
   app_id                 :
@@ -112,13 +112,13 @@ author:
   codepen          :
   dribbble         :
   flickr           : "cambysese"
-  facebook         : "ktavabi"
+  facebook         :
   foursquare       :
   github           : "ktavabi"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "cambysese"
+  instagram        :
   lastfm           :
   linkedin         : ktavabi # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -126,11 +126,11 @@ author:
   stackoverflow    : "1634460/ktavabi"
   steam            : "kambysese" # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "cambysese"
+  twitter          : "kambiztavabi"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://youtube.com/c/ktavabi"
 
 # Site Footer
 footer:
