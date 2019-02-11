@@ -143,10 +143,10 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/ktavabi"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      url: "https://github.com/ktavabi"
+      # url:
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/ktavabi"
