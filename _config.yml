@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -126,7 +126,7 @@ author:
   stackoverflow    : "1634460/ktavabi"
   steam            : "kambysese" # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "kambiztavabi"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -146,10 +146,10 @@ footer:
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://github.com/ktavabi"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/ktavabi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
